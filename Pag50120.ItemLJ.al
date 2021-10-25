@@ -18,7 +18,7 @@ page 50120 "Item-LJ"
             repeater(General)
             {
 
-                field(Number; Rec."No.")
+                field(Numbers; Rec."No.")
                 {
 
                 }
